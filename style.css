@@ -347,9 +347,9 @@ nav {
    @media screen and (max-width: 480px) {
     nav {
         margin-top: 1rem;
-        margin-left: 80px;
+        margin-left: 30px;
         display: grid;
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
       }
 
     .content {
@@ -359,31 +359,31 @@ nav {
         grid-auto-rows: 650px;
     }
     .content > .semana1 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana2 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana3 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana4 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana5 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana6 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
     .content > .semana7 {
-        width: 300px;
-        margin-left: 5px;
+        width: 380px;
+        margin-left: 17px;
     }
    }
